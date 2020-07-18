@@ -1,4 +1,4 @@
-## :man_technologist: Yunho Maeng [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunho0130)](https://hits.seeyoufarm.com)
+## :man_technologist: Maeng Dev [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunho0130)](https://hits.seeyoufarm.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yunho0130/)](https://www.linkedin.com/in/yunho0130/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunho0130@gmail.com)](mailto:yunho0130@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=http://git-awards.com/users/yunho0130)](http://git-awards.com/users/yunho0130)
@@ -15,9 +15,9 @@
 <!-- 깃허브 
 - Lecturer: Yonsei Univ, Sang Myung Univ, 중앙대, 순천대 
 -->
-- :office_worker: IBM Data&AI Engineer :student:	Yonsei Univ Ph.d Course 📚:writing_hand:  Writer 
+- :office_worker: IBM Data&AI Engineer :student: Yonsei Univ Ph.d Course 📚:writing_hand:  Writer 
 - :studio_microphone:	IBM Recognized Speaker/Presenter & IBM Recognized Teacher/Educator
-- :heartpulse:	Python, Deep Learning(OpenAI, Tensroflow, Keras, Pytorch), Data analysis, Cloud(AWS, Azure, GCP, IKS) 
+- :heartpulse:	Python, Deep Learning(OpenAI, Tensroflow, Keras, Pytorch), Data Analysis, Cloud(AWS, Azure, GCP, IKS) 
 - :bulb:	Domain Knowledge: 📈 	Investment, 🔐 Blockchain, 🏦 Finance
 - 💬 Ask me about anything [here](https://github.com/yunho0130/yunho0130/issues)
 
