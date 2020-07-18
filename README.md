@@ -7,6 +7,8 @@
 [![Google Scholar Badge](https://img.shields.io/badge/-Scholar-4285f4?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?hl=en&user=MiHTvZQAAAAJ)](https://scholar.google.com/citations?hl=en&user=MiHTvZQAAAAJ) 
 [![Brunch Badge](https://img.shields.io/badge/-Brunch-000?style=flat-square&link=https://brunch.co.kr/@maengdev)](https://brunch.co.kr/@maengdev) 
 [![Naver Badge](https://img.shields.io/badge/-NAVER-green?style=flat-square&link=https://search.naver.com/search.naver?sm=top_hty&fbm=0&ie=utf8&query=%EB%A7%B9%EC%9C%A4%ED%98%B8)](https://search.naver.com/search.naver?sm=top_hty&fbm=0&ie=utf8&query=%EB%A7%B9%EC%9C%A4%ED%98%B8)
+[![Tistory Badge](https://img.shields.io/badge/-Tistory-orange?style=flat-square&link=http://maengdev.tistory.com/)](http://maengdev.tistory.com/)
+
 <!-- 티스토리 -->
 <!-- 깃허브 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yunho0130)](https://github.com/yunho0130)
