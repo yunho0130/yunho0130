@@ -12,14 +12,14 @@
 <!-- 깃허브 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yunho0130)](https://github.com/yunho0130)
 -->
-
+<!-- 
 Meu nome é Lucas Bittencourt, Técnico em Desenvolvimento de Sistemas e apaixonado por Desenvolvimento.
 
 - :office_worker: Estagiário Desenvolvedor na **LIAX Tecnologia**
 - :blue_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript, entre outras.
 - :books: Estudando CI/CD com Jenkins, Docker e AWS :heart:
 - 💬 Ask me about anything [here](https://github.com/yunho0130/yunho0130/issues)
-
+-->
 
 ---
 
