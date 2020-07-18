@@ -8,8 +8,8 @@
 [![Google Scholar Badge](https://img.shields.io/badge/-Scholar-4285f4?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?hl=en&user=MiHTvZQAAAAJ)](https://scholar.google.com/citations?hl=en&user=MiHTvZQAAAAJ) 
 [![Brunch Badge](https://img.shields.io/badge/-Brunch-000?style=flat-square&link=https://brunch.co.kr/@maengdev)](https://brunch.co.kr/@maengdev) 
 [![Naver Badge](https://img.shields.io/badge/-NAVER-green?style=flat-square&link=https://search.naver.com/search.naver?sm=top_hty&fbm=0&ie=utf8&query=%EB%A7%B9%EC%9C%A4%ED%98%B8)](https://search.naver.com/search.naver?sm=top_hty&fbm=0&ie=utf8&query=%EB%A7%B9%EC%9C%A4%ED%98%B8)
-
-  <!-- 깃허브 
+<!-- 티스토리 -->
+<!-- 깃허브 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yunho0130)](https://github.com/yunho0130)
 -->
 
@@ -19,14 +19,14 @@ Meu nome é Lucas Bittencourt, Técnico em Desenvolvimento de Sistemas e apaixon
 - :blue_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript, entre outras.
 - :books: Estudando CI/CD com Jenkins, Docker e AWS :heart:
 - 💬 Ask me about anything [here](https://github.com/yunho0130/yunho0130/issues)
-  <!-- 브런치 -->
 
 
 ---
 
 <details>
   <summary> <b> [Github Stats]  </b> <i>(Click this link)</i> </summary>
-  [![Yunho's github stats](https://github-readme-stats.vercel.app/api?username=yunho0130&show_icons=true)](https://github.com/yunho0130/github-readme-stats)
+  
+[![Yunho's github stats](https://github-readme-stats.vercel.app/api?username=yunho0130&show_icons=true)](https://github.com/yunho0130/github-readme-stats)
 
 <!--
 ## Algumas tecnologias
@@ -45,8 +45,8 @@ Meu nome é Lucas Bittencourt, Técnico em Desenvolvimento de Sistemas e apaixon
 </details>
 
 <details>
-  <summary> <b> 한글 소개 </b> <i>(클릭:computer_mouse:)</i> </summary>
-  IBM Data&AI에서 엔지니어로, 연세대학교에서 데이터 분석으로 박사과정에 재학중인 샐러던트. 일과 학습을 병행하고 있습니다. SK C&C, KISTI, NRF, DBpia 등에서 프로젝트를 수행하고, Apache Zepplin, Qiskit,  KoGPT-2 등 오픈소스 프로젝트에 기여했습니다. 그 동안 삼성, 현대, LG, 딜로이트 등에서 기업강연을 진행했으며, 연세대, 중앙대, 상명대, 순천대 등에서 대학강연을 진행했습니다.  참여도서로는 <블록체인의 정석>,  <하이퍼레져 블록체인 개발>, <마이크로 소프트웨어>가 있으며, 기술블로그(http://maengdev.tistory.com/ )와 Youtube 채널(https://www.youtube.com/myh0130 )을 운영하고 있습니다. 
+  <summary> <b> [한글 소개] </b> <i>(클릭:computer_mouse:)</i> </summary>
+IBM Data&AI에서 엔지니어로, 연세대학교에서 데이터 분석으로 박사과정에 재학중인 샐러던트. SK C&C, KISTI, NRF, DBpia 등에서 프로젝트를 수행하고, Apache Zepplin, Qiskit,  KoGPT-2 등 오픈소스 프로젝트에 기여했습니다. 그 동안 삼성, 현대, LG, 딜로이트 등에서 기업강연을 진행했으며, 연세대, 중앙대, 상명대, 순천대 등에서 대학강연을 진행했습니다.  참여도서로는 <블록체인의 정석>,  <하이퍼레져 블록체인 개발>, <마이크로 소프트웨어>가 있으며, <a href="https://maengdev.tistory.com">맹개발의 기술블로그</a>와 <a href="https://www.youtube.com/myh0130">Youtube 채널</a>을 운영하고 있습니다. 
   <!-- 책 이미지 섹션 -->
 
 
