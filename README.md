@@ -1,5 +1,4 @@
 ## :man_technologist: Yunho Maeng [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyunho0130)](https://hits.seeyoufarm.com)
-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunho0130@gmail.com)](mailto:yunho0130@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yunho0130/)](https://www.linkedin.com/in/yunho0130/) 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/myh0130)](https://www.youtube.com/c/myh0130) 
@@ -11,18 +10,15 @@
 <!-- 티스토리 -->
 <!-- 깃허브 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yunho0130)](https://github.com/yunho0130)
+- Lecturer: Yonsei Univ, Sang Myung Univ, 중앙대, 순천대 
 -->
-<!-- 
-Meu nome é Lucas Bittencourt, Técnico em Desenvolvimento de Sistemas e apaixonado por Desenvolvimento.
-
-- :office_worker: Estagiário Desenvolvedor na **LIAX Tecnologia**
-- :blue_heart: Techs: React.js, React Native, Node.js, Docker, TypeScript, entre outras.
-- :books: Estudando CI/CD com Jenkins, Docker e AWS :heart:
+- :office_worker: IBM Data&AI Engineer :student:	Yonsei Univ Ph.d Course 📚:writing_hand:  Writer 
+- :studio_microphone:	IBM Recognized Speaker/Presenter & IBM Recognized Teacher/Educator
+- :heartpulse:	Python, Deep Learning(OpenAI, Tensroflow, Keras, Pytorch), Data analysis, Cloud(AWS, Azure, GCP, IKS) 
+- :bulb:	Domain Knowledge: 📈 	Investment, 🔐 Blockchain, 🏦 Finance
 - 💬 Ask me about anything [here](https://github.com/yunho0130/yunho0130/issues)
--->
 
 ---
-
 <details>
   <summary> <b> [Github Stats]  </b> <i>(Click this link)</i> </summary>
   
