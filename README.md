@@ -20,7 +20,7 @@
 -->
 - :office_worker: IBM Data&AI Engineer :student: Yonsei Univ Ph.d Course 📚:writing_hand:  Writer 
 - :studio_microphone:	IBM Recognized Speaker/Presenter & IBM Recognized Teacher/Educator
-- :heartpulse:	Python, Deep Learning(OpenAI, Tensroflow, Keras, Pytorch), Data Analysis, Cloud(AWS, Azure, GCP, IKS) 
+- :heartpulse:	Python, Deep Learning(OpenAI, Tensorflow, Keras, Pytorch), Data Analysis, Cloud(AWS, Azure, GCP, IKS) 
 - :bulb:	Domain Knowledge: 📈 	Investment, 🔐 Blockchain, 🏦 Finance
 - 💬 Ask me about anything [here](https://github.com/yunho0130/yunho0130/issues)
 
