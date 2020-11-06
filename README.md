@@ -48,7 +48,7 @@
 
 <details>
   <summary> <b> [한글 소개] </b> <i>(:point_left:클릭)</i> </summary>
-IBM Data&AI에서 엔지니어로, 연세대학교에서 데이터 분석으로 박사과정에 재학중인 샐러던트. SK C&C, KISTI, NRF, DBpia 등에서 프로젝트를 수행하고, Apache Zepplin, Qiskit,  KoGPT-2 등 오픈소스 프로젝트에 기여했습니다. 그 동안 삼성, 현대, LG, 딜로이트 등에서 기업강연을 진행했으며, 연세대, 중앙대, 상명대, 순천대 등에서 대학강연을 진행했습니다.  참여도서로는 <초소형 머신러닝 TinyML>, <블록체인의 정석>,  <하이퍼레져 블록체인 개발>, <마이크로 소프트웨어>가 있으며, <a href="https://maengdev.tistory.com">맹개발의 기술블로그</a>와 <a href="https://www.youtube.com/myh0130">Youtube 채널</a>을 운영하고 있습니다. 
+IBM Data&AI에서 엔지니어로 근무하고 있으며, 연세대학교에서 데이터 분석으로 박사과정을 수료했다. SK C&C, KISTI, NRF, DBpia 등에서 프로젝트를 수행하고, Apache Zepplin, Qiskit,  KoGPT-2 등 오픈소스 프로젝트에 기여했습니다. 그 동안 삼성, 현대, LG, 딜로이트 등에서 기업강연을 진행했으며, 연세대, 중앙대, 상명대, 순천대 등에서 대학강연을 진행했습니다.  참여도서로는 <초소형 머신러닝 TinyML>, <블록체인의 정석>,  <하이퍼레져 블록체인 개발>, <마이크로 소프트웨어>가 있으며, <a href="https://maengdev.tistory.com">맹개발의 기술블로그</a>와 <a href="https://www.youtube.com/myh0130">Youtube 채널</a>을 운영하고 있습니다. 
   <!-- 책 이미지 섹션 -->
 
 
