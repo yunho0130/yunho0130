@@ -18,7 +18,7 @@
 <!-- 깃허브 
 - Lecturer: Yonsei Univ, Sang Myung Univ, 중앙대, 순천대 
 -->
-- :office_worker: IBM Data&AI Engineer :student: Yonsei Univ Ph.d Course 📚:writing_hand:  Writer 
+- :office_worker: NCT Marketing, CDO :student: Yonsei Univ Ph.d Course 📚:writing_hand:  Writer 
 - :studio_microphone:	IBM Recognized Speaker/Presenter & IBM Recognized Teacher/Educator
 - :heartpulse:	Python, Deep Learning(OpenAI, Tensorflow, Keras, Pytorch), Data Analysis, Cloud(AWS, Azure, GCP, IKS) 
 - :bulb:	Domain Knowledge: 📈 	Investment, 🔐 Blockchain, 🏦 Finance
