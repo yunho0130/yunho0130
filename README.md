@@ -18,7 +18,7 @@
 <!-- 깃허브 
 - Lecturer: Yonsei Univ, Sang Myung Univ, 중앙대, 순천대 
 -->
-- :office_worker: NCT Marketing, CDO :student: Yonsei Univ Ph.d Course 📚:writing_hand:  Writer 
+- :office_worker: Startup CTO :student: Yonsei Univ Ph.d Course 📚:writing_hand:  Writer 
 - :studio_microphone:	IBM Recognized Speaker/Presenter & IBM Recognized Teacher/Educator
 - :heartpulse:	Python, Deep Learning(OpenAI, Tensorflow, Keras, Pytorch), Data Analysis, Cloud(AWS, Azure, GCP, IKS) 
 - :bulb:	Domain Knowledge: 📈 	Investment, 🔐 Blockchain, 🏦 Finance
@@ -48,7 +48,7 @@
 
 <details>
   <summary> <b> [한글 소개] </b> <i>(:point_left:클릭)</i> </summary>
-IBM의 Data&AI 팀에서 엔지니어로 근무했고, 현재는 NCT Marketing의 최고데이터책임자(CDO)로 근무하고 있다. 연세대학교에서 데이터 분석 전공으로 석사 과정을 졸업하고 박사 과정을 수료했다. SK C&C, KISTI, NRF, DBpia 등에서 프로젝트를 진행하였으며 Apache Zeppelin, Qiskit, KoGPT-2 등 오픈소스 프로젝트에 기여했다. 삼성, 현대, LG, 딜로이트 등 기업을 대상으로 강연하고 연세대학교, 중앙대학교, 상명대학교, 순천대학교 등에서도 강연했다. 참여 도서로는 『머신러닝 디자인 패턴』(한빛미디어, 2021), 『Do it 강화학습입문』(이지스퍼블리싱, 2021), 『코딩진로』(호모루덴스, 2021), 『초소형 머신러닝 TINYML』(한빛미디어, 2020), 『하이퍼레저 블록체인 개발』(한빛미디어, 2019), 『블록체인의 정석』(지앤선, 2019) 등이 있다. 깃허브에서 @YUNHO0130으로 활동하고 <a href="HTTP://MAENGDEV.TISTORY.COM/">기술 블로그</a>와 <a href="HTTPS://WWW.YOUTUBE.COM/MYH0130">유튜브 채널</a>을 운영하고 있습니다.
+IBM의 Data&AI 팀에서 엔지니어로 근무했고, 현재는 스타트업의 CTO로 근무하고 있다. 연세대학교에서 데이터 분석 전공으로 석사 과정을 졸업하고 박사 과정을 수료했다. SK C&C, KISTI, NRF, DBpia 등에서 프로젝트를 진행하였으며 Apache Zeppelin, Qiskit, KoGPT-2 등 오픈소스 프로젝트에 기여했다. 삼성, 현대, LG, 딜로이트 등 기업을 대상으로 강연하고 연세대학교, 중앙대학교, 상명대학교, 순천대학교 등에서도 강연했다. 참여 도서로는 『머신러닝 디자인 패턴』(한빛미디어, 2021), 『Do it 강화학습입문』(이지스퍼블리싱, 2021), 『코딩진로』(호모루덴스, 2021), 『초소형 머신러닝 TINYML』(한빛미디어, 2020), 『하이퍼레저 블록체인 개발』(한빛미디어, 2019), 『블록체인의 정석』(지앤선, 2019) 등이 있다. 깃허브에서 @YUNHO0130으로 활동하고 <a href="HTTP://MAENGDEV.TISTORY.COM/">기술 블로그</a>와 <a href="HTTPS://WWW.YOUTUBE.COM/MYH0130">유튜브 채널</a>을 운영하고 있습니다.
 
   
   <!-- 책 이미지 섹션 -->
